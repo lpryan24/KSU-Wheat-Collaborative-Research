@@ -8,6 +8,8 @@ Dr. Romulo P Lollato
 
 Ing. Agr. Nicolas Giordano
 
+Luke Ryan
+
 ...
 
 Coding in R topics to cover
